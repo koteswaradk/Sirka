@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_startnavigation_background.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/startnavigation_background.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_data_click.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/data_click.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_wifiselect.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/wifiselect.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_deletecrosscolor.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/deletecrosscolor.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_car.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/car.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_close.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/close.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_stop_background.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/stop_background.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_navigation.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/navigation.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/layout_customalertdialog.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/layout/customalertdialog.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_showdot.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/showdot.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_mapmarker.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/mapmarker.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/anim_bottomtotop.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/anim/bottomtotop.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_gradient_effetc.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/gradient_effetc.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/anim_rotate.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_earth.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/earth.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/layout_splash.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_info.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/info.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_clear_background.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/clear_background.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_up.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/layout_routedisplay.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/layout/routedisplay.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_start_navigation.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/start_navigation.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_clear_color.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/clear_color.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_wifi_click.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/wifi_click.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_map.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/map.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_deletecross.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/deletecross.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_walk.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/walk.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_orientation.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/orientation.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_wifi.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/wifi.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/layout_searchroute.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/layout/searchroute.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/menu_activity_main.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_okmark.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/okmark.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_gradient_spinner.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/gradient_spinner.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_stop.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/stop.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_okmarkcolor.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/okmarkcolor.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_x_click.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/x_click.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_clear.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/clear.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_data.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/data.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/anim_toptobottom.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/anim/toptobottom.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_x.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/x.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_datapack.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/datapack.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/layout_custom_navigate.xml.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/layout/custom_navigate.xml"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_stopcolor.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/stopcolor.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_location.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/location.png"
+    },
+    {
+        "merged": "/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/res/merged/debug/drawable_mappointer.png.flat",
+        "source": "/Users/koteswara/Documents/workspace/Sirka/app/src/main/res/drawable/mappointer.png"
+    }
+]

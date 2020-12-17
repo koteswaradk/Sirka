@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yoobikwiti.sirka"
+    android:versionCode="1"
+    android:versionName="1.0" > <!-- Specify the correct minSDK and targetSDK versions. -->
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="22" />
+
+    <!-- Google Maps related permissions -->
+
+    <uses-permission android:name="com.yoobikwiti.sirka.permission.MAPS_RECEIVE" />
+
+    <!-- Network connectivity permissions -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Access Google based webservices -->
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <!-- External storage for caching. -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- My Location -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- Maps API needs OpenGL ES 2.0. -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_GSERVICES" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/map"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppBaseTheme" >
+        <activity android:name="com.yoobikwiti.sirka.SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.yoobikwiti.sirka.RouteDisplayActivity" />
+        <activity android:name="com.yoobikwiti.sirka.RouteSearchActivity" />
+        <activity android:name="com.yoobikwiti.sirka.SearchRouteActivity" />
+        <activity android:name="com.yoobikwiti.sirka.CustomNavigate" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyD23l_XKm8JvtsVxU1q44as8tdEMixAmP8" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.yoobikwiti.sirka.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+    </application>
+
+</manifest>

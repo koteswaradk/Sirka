@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sirka</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_atv_places">Current Location</string>
+      <string name="end_atv_places">Destination Location</string>
+
+</resources>

@@ -1,0 +1,215 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+     >
+
+   
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.MapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+   
+
+    <!-- <RelativeLayout
+        android:id="@+id/autotext_search"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+         android:layout_alignParentTop="true"
+         android:visibility="visible"
+        android:background="@drawable/gradient_effetc" >
+        
+        <ImageView 
+            android:layout_marginTop="20dp"
+            android:id="@+id/from_location"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:background="@drawable/location"/>
+        <ImageView 
+            android:layout_marginTop="15dp"
+            android:id="@+id/dot_image"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/from_location"
+           
+        	android:layout_height="wrap_content"
+        	android:background="@drawable/showdot"/>
+        <ImageView 
+            
+            android:id="@+id/dot_image1"
+            android:layout_width="wrap_content"
+            android:layout_below="@+id/dot_image"
+           android:layout_marginTop="05dp"
+        	android:layout_height="wrap_content"
+        	android:background="@drawable/showdot"/>
+
+        <com.yoobikwiti.sirka.CustomAutoCompleteTextView
+            android:id="@+id/atv_places"
+            android:layout_width="fill_parent"
+            android:layout_height="90dp"
+            android:paddingTop="10dp"
+           	android:layout_toRightOf="@+id/from_location"
+          
+            android:hint="@string/str_atv_places" />
+        
+        <ImageView 
+            android:id="@+id/to_location"
+           android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_below="@+id/dot_image1"
+        	android:background="@drawable/location"/>
+
+        <com.yoobikwiti.sirka.CustomAutoCompleteTextView
+            android:id="@+id/end_places"
+            android:layout_width="fill_parent"
+            android:layout_height="90dp"
+            android:paddingTop="10dp"
+           
+            android:layout_toRightOf="@+id/from_location"
+             
+             android:layout_below="@+id/atv_places"
+             
+            
+            android:hint="@string/end_atv_places" />
+
+        <ImageButton
+            android:id="@+id/atv_clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/dot_image"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/clear_background" />
+         <ImageButton
+            android:id="@+id/end_clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/to_location"
+             android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/clear_background" />
+
+    </RelativeLayout> -->
+    <RelativeLayout 
+        android:id="@+id/duration_distance_display"
+        android:layout_width="fill_parent"
+      	android:gravity="center_vertical"
+        android:layout_height="70dp"
+     
+        android:background="#b032cb"
+        >
+        
+        <TextView 
+         android:id="@+id/distance_text"
+        android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+        android:text="distance"
+        android:gravity="left"
+        android:textColor="#FFFFFF"
+       android:layout_marginLeft="50dp"
+        android:textSize="16sp"
+       
+        />
+
+         <TextView
+             android:id="@+id/duration_text"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+            android:layout_marginRight="50dp"
+             android:gravity="right"
+             android:text="duration"
+             android:textColor="#FFFFFF"
+             android:textSize="16sp" />
+        
+    </RelativeLayout>
+    
+    <RelativeLayout  
+        	android:layout_width="fill_parent"
+        	
+        	android:layout_alignParentBottom="true"
+            android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/start_navigation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:visibility="visible"
+            android:background="@drawable/startnavigation_background" />
+      
+        
+    </RelativeLayout>
+         <ImageButton 
+             android:id="@+id/b_launcher"
+           android:layout_alignParentBottom="true"
+         android:layout_alignParentRight="true"
+         android:layout_marginBottom="05dp"
+         android:layout_marginRight="10dp"
+            android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:background="@drawable/up"/>
+
+         <ImageButton
+             android:id="@+id/b_world"
+             android:layout_width="40dp"
+             android:layout_height="40dp"
+              android:layout_marginBottom="05dp"
+             android:layout_above="@+id/b_mappointer"
+             android:layout_alignLeft="@+id/b_mappointer"
+             android:background="@drawable/earth"
+             android:visibility="gone" />
+
+         <ImageButton
+             android:id="@+id/b_mappointer"
+             android:layout_width="40dp"
+             android:layout_height="40dp"
+             android:layout_above="@+id/b_launcher"
+              android:layout_marginBottom="05dp"
+             android:layout_alignLeft="@+id/b_launcher"
+             android:background="@drawable/mappointer"
+             android:visibility="gone" />
+
+         <ImageButton
+             android:id="@+id/b_info"
+             android:layout_width="40dp"
+             android:layout_height="40dp"
+             android:layout_above="@+id/b_world"
+              android:layout_marginBottom="05dp"
+             android:layout_alignLeft="@+id/b_world"
+             android:background="@drawable/info"
+             android:visibility="gone" />
+
+         <ImageButton
+             android:id="@+id/b_car"
+             android:layout_width="40dp"
+             android:layout_height="40dp"
+             android:layout_above="@+id/b_info"
+             android:layout_marginBottom="05dp"
+             android:layout_alignLeft="@+id/b_info"
+             android:background="@drawable/car"
+             android:visibility="gone" />
+
+         <ImageButton
+             android:id="@+id/b_walk"
+             android:layout_width="40dp"
+             android:layout_height="40dp"
+             android:layout_above="@+id/b_car"
+              android:layout_marginBottom="05dp"
+             android:layout_alignLeft="@+id/b_car"
+             android:background="@drawable/walk"
+             android:visibility="gone" />
+
+         <ImageButton
+             android:id="@+id/stop_navigation"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:layout_below="@+id/duration_distance_display"
+             android:background="@drawable/stop_background"
+             android:visibility="visible" />
+
+</RelativeLayout>

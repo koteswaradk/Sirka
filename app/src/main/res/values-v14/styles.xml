@@ -1,0 +1,30 @@
+<resources>
+
+    <!--
+        Base application theme for API 14+. This theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+         <item name="colorPrimary">@color/colorPrimary</item>
+
+         <item name="android:textColor">@color/colorPrimary</item>
+         
+          <item name="android:textColorPrimary">@color/textPrimary</item>
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+      
+       
+
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowNoTitle">true</item>
+    	
+    	<item name="windowActionBar">false</item>
+    	<item name="android:windowIsTranslucent">true</item>
+    	<item name="android:windowDisablePreview">true</item>
+    </style>
+
+</resources>

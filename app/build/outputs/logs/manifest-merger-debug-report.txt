@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:2:1-79:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e9e29cd2a9518cf785984639da063b36/appcompat-v7-23.4.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/4b6bd403e9538df6078d24b42c2a5090/animated-vector-drawable-23.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/ab9ae26ba92a0f7a9b6353a2a8f99545/support-vector-drawable-23.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/9a53e7854ab879713d52bb269a0b4e42/play-services-appindexing-9.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/623c522f1e2e10b9554829a4e3cc5a60/play-services-tasks-9.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/29bcee06c8d14112753b7c986c3a1450/play-services-basement-9.4.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/57ffe8c62e3f3a2e6f1bc64a0470b760/support-v4-23.4.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:1-42
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:1-42
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:1-42
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e9e29cd2a9518cf785984639da063b36/appcompat-v7-23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e9e29cd2a9518cf785984639da063b36/appcompat-v7-23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/4b6bd403e9538df6078d24b42c2a5090/animated-vector-drawable-23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/4b6bd403e9538df6078d24b42c2a5090/animated-vector-drawable-23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/ab9ae26ba92a0f7a9b6353a2a8f99545/support-vector-drawable-23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/ab9ae26ba92a0f7a9b6353a2a8f99545/support-vector-drawable-23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/9a53e7854ab879713d52bb269a0b4e42/play-services-appindexing-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/9a53e7854ab879713d52bb269a0b4e42/play-services-appindexing-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/623c522f1e2e10b9554829a4e3cc5a60/play-services-tasks-9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/623c522f1e2e10b9554829a4e3cc5a60/play-services-tasks-9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/29bcee06c8d14112753b7c986c3a1450/play-services-basement-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/29bcee06c8d14112753b7c986c3a1450/play-services-basement-9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/57ffe8c62e3f3a2e6f1bc64a0470b760/support-v4-23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/57ffe8c62e3f3a2e6f1bc64a0470b760/support-v4-23.4.0/AndroidManifest.xml:20:5-43
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:1-42
+INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:1-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e9e29cd2a9518cf785984639da063b36/appcompat-v7-23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:11-40
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:1-42
+		INJECTED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml
+uses-permission#com.yoobikwiti.sirka.permission.MAPS_RECEIVE
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:14:1-79
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:14:18-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:17:1-74
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:17:18-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:18:1-62
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:18:18-60
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:21:1-93
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:21:18-91
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:24:1-76
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:24:18-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:27:1-76
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:27:18-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:28:1-74
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:28:18-72
+uses-feature#0x00020000
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:31:1-73
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:22:5-24:33
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:31:15-47
+	android:required
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:31:48-71
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:33:7-81
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:33:24-79
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:34:5-72
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:34:22-70
+uses-permission#android.permission.WRITE_GSERVICES
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:35:5-73
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:35:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:36:5-75
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:36:22-72
+application
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:40:5-77:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e9e29cd2a9518cf785984639da063b36/appcompat-v7-23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e9e29cd2a9518cf785984639da063b36/appcompat-v7-23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/4b6bd403e9538df6078d24b42c2a5090/animated-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/4b6bd403e9538df6078d24b42c2a5090/animated-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/ab9ae26ba92a0f7a9b6353a2a8f99545/support-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/ab9ae26ba92a0f7a9b6353a2a8f99545/support-vector-drawable-23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/e03cd47af4cce20edf6c476b71a8235f/play-services-maps-9.4.0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/9a53e7854ab879713d52bb269a0b4e42/play-services-appindexing-9.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/9a53e7854ab879713d52bb269a0b4e42/play-services-appindexing-9.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/623c522f1e2e10b9554829a4e3cc5a60/play-services-tasks-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/623c522f1e2e10b9554829a4e3cc5a60/play-services-tasks-9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/29bcee06c8d14112753b7c986c3a1450/play-services-basement-9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/29bcee06c8d14112753b7c986c3a1450/play-services-basement-9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/57ffe8c62e3f3a2e6f1bc64a0470b760/support-v4-23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/57ffe8c62e3f3a2e6f1bc64a0470b760/support-v4-23.4.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:44:9-41
+	android:icon
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:43:9-37
+	android:allowBackup
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:42:9-35
+	android:theme
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:45:9-44
+activity#com.yoobikwiti.sirka.SplashScreen
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:48:9-56:20
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:49:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:54:27-74
+activity#com.yoobikwiti.sirka.RouteDisplayActivity
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:57:10-60:15
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:58:13-49
+activity#com.yoobikwiti.sirka.RouteSearchActivity
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:61:11-64:15
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:62:13-48
+activity#com.yoobikwiti.sirka.SearchRouteActivity
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:65:12-68:15
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:66:13-48
+activity#com.yoobikwiti.sirka.CustomNavigate
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:69:13-72:15
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:70:13-43
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:74:10-75:71
+	android:value
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:75:14-69
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:74:21-70
+meta-data#com.google.android.gms.version
+ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:76:9-122
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/29bcee06c8d14112753b7c986c3a1450/play-services-basement-9.4.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/29bcee06c8d14112753b7c986c3a1450/play-services-basement-9.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:76:66-119
+	android:name
+		ADDED from /Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:76:20-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:9:13-58

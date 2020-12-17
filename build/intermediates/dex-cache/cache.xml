@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/69816aeb4f3162842cf72e37c507093efcb03829/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_3c966274b41e7eae7dac7db7998e0fa6cd1a1625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/8493f3e0da20e8fafd49c5f15cafe66746ba77e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_35e63625d8268bd16db24a7e56e3b0dd79674eb4.jar" />
+    </item>
+    <item
+        jar="/Users/koteswara/Documents/workspace/Sirka/app/libs/apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/apache-httpcomponents-httpcore_85beff2b4e1b32f033379f802cfdab1ce8767c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/5f7ae49617c3155067163152690203c61e8be5dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_ac00d75cf717531d4e0747f417e771501b5f0f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/7d5010343971172888116d212683aad79d7e2a52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_736a60b8d499a1dda836e35d56b6e727cf76da75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/96b7f45da8794c3a84c6995c75ef59be3fa213ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_803900c8c067235743e81d6a7d1fee85af914e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/abbbe843b5ed9415674032aa841bdaac3a23f671/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_c69fd16820c644594919132b9ab06b70fc3c63f2.jar" />
+    </item>
+    <item
+        jar="/Users/koteswara/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_16259109550515e6d802ed6b659640cb823eee95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/ec77e7153cb9a8cc05212422022705b1c726de58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_3bb7b1ba1934a85f5afd24463428c7f51e25ef5c.jar" />
+    </item>
+    <item
+        jar="/Users/koteswara/Documents/workspace/Sirka/app/libs/httpclient-4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="15e5dcd413042ee5af9c350604d57e8c156e103f">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/httpclient-4.2_69ad90640da5eea8235260c61b3a6d55e1b1ef89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/bc14dc5d154cfe9c68a15cefb6a9c6bedb456cbb/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ceb716d9749986872bd44ee09af10b45a0713861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_16259109550515e6d802ed6b659640cb823eee95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/fef7855d53888c04e8a0cee5ca04ad806ce622d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_1b9e1f534188f247b7d5570cfe344c57ffdb233c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/Documents/workspace/Sirka/app/libs/httpclient-4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e5dcd413042ee5af9c350604d57e8c156e103f">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/httpclient-4.2_69ad90640da5eea8235260c61b3a6d55e1b1ef89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/9f331296ee22187bf6ef7dd7e55b041cda37efe9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_76a4105cd7dd746b0ee88eea2b148ed990dbba85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/.android/build-cache/bc14dc5d154cfe9c68a15cefb6a9c6bedb456cbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/classes_244f333f8db37b2bf43598bc73bd520035fe9bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/koteswara/Documents/workspace/Sirka/app/libs/apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="/Users/koteswara/Documents/workspace/Sirka/app/build/intermediates/pre-dexed/debug/apache-httpcomponents-httpcore_85beff2b4e1b32f033379f802cfdab1ce8767c0b.jar" />
+    </item>
+
+</items>

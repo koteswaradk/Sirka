@@ -1,0 +1,122 @@
+<resources>
+
+    
+        <!-- Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices. -->
+<!--    
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+             <item name="colorPrimary">@color/colorPrimary</item>
+
+         <item name="android:textColor">@color/colorPrimary</item>
+         
+          <item name="android:textColorPrimary">@color/textPrimary</item>
+       
+    </style> -->
+
+   <!--  Application theme. -->
+  <!--   <style name="AppTheme" parent="AppBaseTheme"> -->
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+  <!--   </style>  -->
+   
+
+  <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+
+        <!-- colorPrimary is used for the default action bar background -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+         <item name="android:textColor">@color/colorPrimary</item>
+         
+          <item name="android:textColorPrimary">@color/textPrimary</item>
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+      
+       
+
+        <!-- colorAccent is used as the default value for colorControlActivated
+             which is used to tint widgets -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowNoTitle">true</item>
+    	<item name="android:windowFullscreen">true</item>
+    	<item name="windowActionBar">false</item>
+    	<item name="android:windowIsTranslucent">true</item>
+    	<item name="android:windowDisablePreview">true</item>
+    	
+
+</style>
+        
+       
+<!--
+</style>
+    Application theme.
+    <style name="AppTheme" parent="AppBaseTheme">
+        All customizations that are NOT specific to a particular API-level can go here.
+    </style>
+<style name="PreferencesTheme">
+  
+    <item name="android:background">#FFEFEFEF</item>
+    <item name="android:textColor">#FF0D72A6</item>
+    <item name="android:textStyle">normal</item>
+    <item name="android:typeface">serif</item>
+    <item name="android:windowTitleBackgroundStyle">@style/TitleBarcall</item>
+    <item name="android:windowTitleSize">44dip</item>
+
+</style>
+ <style name="TitleBarcall">
+        
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">#FF0D72A6</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:textColorPrimaryInverse">@android:color/primary_text_light</item>
+        </style>
+        <style name="TitleBar">
+        
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">#FF0D72A6</item>
+        <item name="android:layout_alignParentTop">true</item>
+        
+    </style>
+    <style name="spinner_style">
+          <item name="android:layout_width">match_parent</item>
+          <item name="android:layout_height">wrap_content</item>
+          <item name="android:background">@drawable/gradient_spinner</item>
+          <item name="android:layout_margin">10dp</item>
+          <item name="android:paddingLeft">8dp</item>
+          <item name="android:paddingRight">20dp</item>
+          <item name="android:paddingTop">5dp</item>
+          <item name="android:paddingBottom">5dp</item>
+          <item name="android:popupBackground">#DFFFFFFF</item>
+     </style>
+      <style name="AppTheme_Dark_Dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/white</item>
+       	<item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:background">#FFEFEFEF</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowBackground">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowFrame">@null</item>
+
+    </style> -->
+</resources>

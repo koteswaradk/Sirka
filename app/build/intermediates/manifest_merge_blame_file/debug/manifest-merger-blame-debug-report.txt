@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yoobikwiti.sirka"
+4    android:versionCode="1"
+5    android:versionName="1.0" > <!-- Specify the correct minSDK and targetSDK versions. -->
+6    <uses-sdk
+6-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:1-42
+7        android:minSdkVersion="11"
+7-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:1-42
+8        android:targetSdkVersion="22" />
+8-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:10:11-40
+9
+10    <!-- Google Maps related permissions -->
+11
+12    <uses-permission android:name="com.yoobikwiti.sirka.permission.MAPS_RECEIVE" />
+12-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:14:1-79
+12-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:14:18-77
+13
+14    <!-- Network connectivity permissions -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:17:1-74
+15-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:17:18-72
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:18:1-62
+16-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:18:18-60
+17
+18    <!-- Access Google based webservices -->
+19    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+19-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:21:1-93
+19-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:21:18-91
+20
+21    <!-- External storage for caching. -->
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:24:1-76
+22-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:24:18-74
+23
+24    <!-- My Location -->
+25    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+25-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:27:1-76
+25-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:27:18-74
+26    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+26-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:28:1-74
+26-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:28:18-72
+27
+28    <!-- Maps API needs OpenGL ES 2.0. -->
+29    <uses-feature
+29-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:31:1-73
+30        android:glEsVersion="0x00020000"
+30-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:31:15-47
+31        android:required="true" />
+31-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:31:48-71
+32
+33    <uses-permission android:name="android.permission.INTERNET" />
+33-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:18:1-62
+33-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:18:18-60
+34    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+34-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:33:7-81
+34-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:33:24-79
+35    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+35-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:34:5-72
+35-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:34:22-70
+36    <uses-permission android:name="android.permission.WRITE_GSERVICES" />
+36-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:35:5-73
+36-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:35:22-71
+37    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+37-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:36:5-75
+37-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:36:22-72
+38    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+38-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:17:1-74
+38-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:17:18-72
+39    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+39-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:21:1-93
+39-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:21:18-91
+40
+41    <application
+41-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:40:5-77:19
+42        android:allowBackup="true"
+42-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:42:9-35
+43        android:debuggable="true"
+44        android:icon="@drawable/map"
+44-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:43:9-37
+45        android:label="@string/app_name"
+45-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:44:9-41
+46        android:testOnly="true"
+47        android:theme="@style/AppBaseTheme" >
+47-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:45:9-44
+48        <activity android:name="com.yoobikwiti.sirka.SplashScreen" >
+48-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:48:9-56:20
+48-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:49:13-41
+49            <intent-filter>
+49-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:52:13-55:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:53:17-69
+50-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:53:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:54:17-77
+52-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:54:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity android:name="com.yoobikwiti.sirka.RouteDisplayActivity" />
+55-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:57:10-60:15
+55-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:58:13-49
+56        <activity android:name="com.yoobikwiti.sirka.RouteSearchActivity" />
+56-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:61:11-64:15
+56-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:62:13-48
+57        <activity android:name="com.yoobikwiti.sirka.SearchRouteActivity" />
+57-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:65:12-68:15
+57-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:66:13-48
+58        <activity android:name="com.yoobikwiti.sirka.CustomNavigate" />
+58-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:69:13-72:15
+58-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:70:13-43
+59
+60        <meta-data
+60-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:74:10-75:71
+61            android:name="com.google.android.maps.v2.API_KEY"
+61-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:74:21-70
+62            android:value="AIzaSyD23l_XKm8JvtsVxU1q44as8tdEMixAmP8" />
+62-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:75:14-69
+63        <meta-data
+63-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:76:9-122
+64            android:name="com.google.android.gms.version"
+64-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:76:20-65
+65            android:value="@integer/google_play_services_version" />
+65-->/Users/koteswara/Documents/workspace/Sirka/app/src/main/AndroidManifest.xml:76:66-119
+66
+67        <activity
+67-->[com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:20:9-22:45
+68            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+68-->[com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:20:19-85
+69            android:exported="false"
+69-->[com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:22:19-43
+70            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+70-->[com.google.android.gms:play-services-base:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/da234a79df00587820cbb47e1bf526c6/play-services-base-9.4.0/AndroidManifest.xml:21:19-78
+71
+72        <provider
+72-->[com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:7:9-11:39
+73            android:name="com.google.firebase.provider.FirebaseInitProvider"
+73-->[com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:9:13-58
+74            android:authorities="com.yoobikwiti.sirka.firebaseinitprovider"
+74-->[com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:8:13-72
+75            android:exported="false"
+75-->[com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:10:13-37
+76            android:initOrder="100" />
+76-->[com.google.firebase:firebase-common:9.4.0] /Users/koteswara/.gradle/caches/transforms-2/files-2.1/77265dae7f5271f74cebafb4b37fe271/firebase-common-9.4.0/AndroidManifest.xml:11:13-36
+77    </application>
+78
+79</manifest>

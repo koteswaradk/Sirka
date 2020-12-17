@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:background="@android:color/transparent"
+>
+
+ <!--    <RelativeLayout
+        android:id="@+id/d1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffffff" 
+        android:scaleType="fitCenter">
+</RelativeLayout> -->
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:background="#b032cb" >
+
+    <ImageButton
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:gravity="top"
+        android:visibility="visible"
+        android:background="@drawable/close" />
+
+    <TextView
+        android:id="@+id/text_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="Navigate From Current Location"
+        android:visibility="visible"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+    <ImageButton
+        android:id="@+id/wifi_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/cancel"
+        android:background="@drawable/wifiselect" />
+
+    <ImageButton
+        android:id="@+id/datapack_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="40dp"
+        android:background="@drawable/datapack" />
+
+</RelativeLayout>
+
+</RelativeLayout>
